@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Patrick
 - 👀 I’m interested in Artificial Intelligece and Cyber Security.
-- 🌱 I’m currently learning a bunch of stuff. Everyday, I practice something related to programming it could be javascript, node.js, python, django, or DS and algorithms. It's a marathon not a sprint, I find technology fascinating, and I love to learn.
+- 🌱 I’m currently learning a bunch of stuff. Everyday, I practice something related to programming - it could be javascript, node.js, python, django, or DS and algorithms. It's a marathon not a sprint, I find technology fascinating, and I love to learn.
 - I’m looking to collaborate on building sustainable business solutions.
 - Currently working through HackTheBox Academy's Penetration Tester curriculum and looking for full time remote work. 
 
